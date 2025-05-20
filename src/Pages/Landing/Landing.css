@@ -333,14 +333,15 @@
     /* Security */
     #security {
     
-        gap: 1rem;
+        gap: 0.8rem;
         #security-upper {
     
-            gap: 0.5rem;
+            gap: 0.8rem;
             #security-description { 
                 
                 width: 90%; 
                 line-height: 1.2;
+                font-size: 14px;
             
             }
             div { gap: 0.1rem; }
@@ -354,6 +355,7 @@
     
                 width: 80%;
                 line-height: 1.2;
+                font-size: 14px;
     
             }
             #security-divs {
